@@ -1,0 +1,6 @@
+name: Return Oriented Programming Challenges
+
+resources:
+  - id: leave-chain-1
+    type: challenge
+    name: Leave Chain 1

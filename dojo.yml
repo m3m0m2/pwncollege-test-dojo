@@ -1,0 +1,6 @@
+id: mm302-dojo
+
+name: Test dojo created by mm302
+
+modules:
+  - id: rop
