@@ -1,6 +1,7 @@
 id: mm302-dojo
-
 name: Test dojo created by mm302
+
+image: pwncollege/challenge-legacy:latest
 
 modules:
   - id: rop
